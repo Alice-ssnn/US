@@ -1,0 +1,76 @@
+# 拉斯维加斯一线明星演出查询
+
+**查询日期区间：** 2027年2月6日（六）– 2月8日（一）  
+**查询时间：** 2026-09-23（UTC）  
+**说明：** 以下为公开票务/官方驻演信息交叉核对结果；档期可能变更，购票前请以官方渠道为准。
+
+---
+
+## 一、区间内已确认的一线 / 重点明星场次
+
+| 日期 | 艺人 | 演出 / 驻演 | 场馆 | 开演时间 | 票务线索 |
+|------|------|-------------|------|----------|----------|
+| **2月6日（六）** | **Metallica** | *Life Burns Faster* 驻演 | **Sphere**（255 Sands Ave） | **20:30**（当地时间） | [Sphere](https://www.thesphere.com/shows/metallica)、[Metallica.com](https://www.metallica.com/news/2026-02-25-life-burns-faster-at-sphere-in-las-vegas.html)、[Bandsintown](https://www.bandsintown.com/e/1038244952-metallica-at-sphere) |
+| **2月6日（六）** | **Styx** | Live in Las Vegas 驻演（第7年连驻 Venetian） | **The Venetian Theatre** | **20:30** | [Venetian 官方通告](https://www.venetianlasvegas.com/media/news-releases/2026/09-14-styx-announce-return-to-the-venetian-resort.html)、Ticketmaster / VenetianLasVegas.com（场次：1/29–30、2/3、2/5、**2/6**） |
+
+### Metallica（本窗口最强一线档）
+
+- 驻演名：**Life Burns Faster**（Sphere）
+- 本窗口场次：**仅 2月6日**（同周末无 2/7、2/8）
+- 邻近 Metallica Sphere 场次：2/4；之后为 **2/18、2/20、2/25、2/27**（另有 3/4、3/6、3/11、3/13）
+- 形式：周四 / 周六 “No Repeat Weekend”（同周末两场曲目不重复）
+- 门禁：Sphere 一般提前约 90 分钟开门（约 19:00）
+
+### Styx
+
+- 五场驻演收官日即 **2月6日**
+- 票价通告起点约 **$55**（另加税费；以售票时为准）
+- 属经典摇滚驻演常客，体量低于 Metallica / 主流流行驻演，但为 Strip 剧院级确认档
+
+---
+
+## 二、2月7–8日：未见同等一线驻演
+
+截至本次检索，在以下主力场馆 **未发现** Adele、Bruno Mars、Usher、Lady Gaga、Kelly Clarkson、Rod Stewart、Mary J. Blige、Barry Manilow 等同类一线明星在 **2/7–2/8** 的确认驻演或大型专场：
+
+- Sphere  
+- Dolby Live at Park MGM  
+- The Colosseum at Caesars Palace  
+- Venetian Theatre / Palazzo Theatre（Styx 驻演已于 2/6 结束）  
+- Allegiant / T-Mobile / MGM Grand Garden 等大型场馆（该周末无对应头牌公告）
+
+该两日更多为常驻秀、致敬团、魔术/综艺类排期（如各类 tribute、喜剧秀），**不属于“一线明星专场”口径**。
+
+> 注意：部分聚合站点把「2 月整月驻演」写成 Feb 1–28，并不代表每天都有场；Barry Manilow（Westgate）、Santana（House of Blues）等需以官方具体日期为准——目前未见其落在 2/6–8。
+
+---
+
+## 三、邻近窗口可关注（不在 2/6–8 内）
+
+| 大致日期 | 艺人 | 场馆 | 备注 |
+|----------|------|------|------|
+| **2/12、13、17、19、20** | Mary J. Blige | Dolby Live at Park MGM | *My Life, My Story* 收官五场；距本窗口约 4–6 天 |
+| **2/18、20、25、27** | Metallica | Sphere | 下一轮 *Life Burns Faster* |
+| **2/18–20、2/25–27** | Barry Manilow | Westgate International Theater | 剧院级驻演；不在本查询窗口内 |
+
+---
+
+## 四、购票与核验建议
+
+1. **优先官方：** Sphere / Metallica 官网、Venetian + Ticketmaster、Live Nation  
+2. **避开不可靠二级市场**；二级票以官方转售（如 Ticketmaster verified）为主  
+3. 2027 年初档期仍可能加场或改期，出行前 1–2 周再核一次日历  
+
+---
+
+## 五、信息来源（抽样）
+
+- https://www.thesphere.com/shows/metallica  
+- https://www.metallica.com/news/2026-02-25-life-burns-faster-at-sphere-in-las-vegas.html  
+- https://www.bandsintown.com/e/1038244952-metallica-at-sphere  
+- https://www.venetianlasvegas.com/media/news-releases/2026/09-14-styx-announce-return-to-the-venetian-resort.html  
+- https://consequence.net/2026/03/metallica-expand-sphere-residency-24-shows/  
+- https://www.ticketnews.com/2026/09/mary-j-blige-extends-las-vegas-residency-into-2027-with-five-final-shows/  
+- Live Nation / Ticketmaster Las Vegas 公开列表  
+
+**结论：** 2027-02-06～08 窗口内，**明确的一线明星大场**主要是 **Metallica @ Sphere（2月6日 20:30）**；同日另有 **Styx @ Venetian Theatre（20:30）**。**2月7日、8日目前没有同级别头牌确认场次。**（相对 2026-09-22 查询，核心结论未变。）
